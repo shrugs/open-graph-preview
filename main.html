@@ -1,0 +1,321 @@
+<div layout="row">
+  <md-content class="md-padding" flex="40">
+
+    <div layout="column" layout-gt-md="row" layout-align="space-around center" layout-padding layout-margin>
+      <div flex ng-repeat="bucket in tags" class="full-width">
+        <md-input-container ng-repeat="tag in bucket">
+          <label>{{tag.property}}</label>
+          <input name="{{tag.property}}" ng-if="tag.type === 'string'" ng-model="data[tag.property]" type="text">
+          <input name="{{tag.property}}" ng-if="tag.type === 'url'" ng-model="data[tag.property]" type="url">
+          <textarea name="{{tag.property}}" ng-if="tag.type === 'text'" ng-model="data[tag.property]" md-maxlength="200"></textarea>
+        </md-input-container>
+      </div>
+    </div>
+  </md-content>
+
+  <div layout="column" flex="60" class="main-content">
+    <div layout="center center">
+        <md-radio-group ng-model="data['twitter:card']" layout="row" layout-align="space-around center">
+          <md-radio-button ng-repeat="t in cardTypes" ng-value="t">
+                 {{t}}
+          </md-radio-button>
+        </md-radio-group>
+    </div>
+    <div class="tweet-div">
+        <div id="tweet_DIV_1">
+          <div id="tweet_DIV_2">
+            <div id="tweet_DIV_3">
+              <div id="tweet_DIV_4">
+                <a href="https://twitter.com/nytimes" id="tweet_A_56">
+                  <img src="https://pbs.twimg.com/profile_images/2044921128/finals_400x400.png" alt="" id="tweet_IMG_57" />
+                  <strong id="tweet_STRONG_58">{{data.customUsername}}</strong>
+                  <span id="tweet_SPAN_62"><b id="tweet_B_64">{{data['custom@handle']}}</b></span>
+                </a>
+              </div>
+            </div>
+            <p id="tweet_P_69">{{data.customStatusText}}</p>
+            <div id="tweet_DIV_141">
+              <div id="tweet_DIV_143">
+                <div ng-if="data['twitter:card'] === 'summary'" class="tweet_DIV_146">
+                  <!-- SUMMARY CARD -->
+                  <div id="summary_DIV_2">
+                    <div id="summary_DIV_3">
+                       <a href="https://twitter.com/nytimes" id="summary_A_4"><img width="20" height="20" src="https://pbs.twimg.com/profile_images/558432099003564033/3Sm2hz4C_400x400.jpeg" id="summary_IMG_5" /> <b id="summary_B_6">{{data.customUsername}}</b></a>
+                    </div>
+                    <div id="summary_DIV_7">
+                      <div id="summary_DIV_8">
+                         <a ng-href="{{data['og:image']}}" id="summary_A_9"><img ng-src="{{data['og:image']}}" id="summary_IMG_10" /></a>
+                        <div id="summary_DIV_11">
+                          <h1 id="summary_H1_12">
+                             <a ng-href="{{data['og:url']}}" id="summary_A_13">{{data['og:title']}}</a>
+                          </h1>
+                          <p id="summary_P_14">
+                             <a ng-href="{{data['og:url']}}" tabindex="-1" id="summary_A_15">{{data['og:description']}}</a>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div id="summary_DIV_16">
+                         <a ng-href="{{data['og:url']}}" class="summary_A_17">View on web</a>
+                    </div>
+                  </div>
+                </div>
+                <div ng-if="data['twitter:card'] === 'photo'" class="tweet_DIV_146">
+                  <!-- PHOTO CARD -->
+                  <div id="photo_DIV_2">
+                    <div id="photo_DIV_7">
+                      <div id="photo_DIV_8">
+                        <div id="photo_DIV_9">
+                           <a ng-href="{{data['og:image']}}" id="photo_A_10"><img width="640" ng-src="{{data['og:image']}}" alt="Image preview" id="photo_IMG_11" /></a>
+                        </div>
+                        <h1 id="photo_H1_12">
+                           <a ng-href="{{data['og:url']}}" id="photo_A_13" class="twitter-link">{{data['og:title']}}</a>
+                        </h1>
+                      </div>
+                    </div>
+                    <div id="photo_DIV_14">
+                       <a ng-href="{{data['og:url']}}" id="photo_A_15" class="summary_A_17">View on web</a>
+                    </div>
+
+                  </div>
+                </div>
+                <div ng-if="data['twitter:card'] == 'summary_large_image'" id="twitter_large_article_DIV_1">
+                  <div id="twitter_large_article_DIV_2">
+                    <h3 id="twitter_large_article_H3_3">
+                       <a href="http://t.co/uULA47di9M" id="twitter_large_article_A_4"><img alt="" ng-src="{{data['og:image']}}" width="470" height="264" id="twitter_large_article_IMG_5" />{{data['og:title']}}</a>
+                    </h3>
+                    <p id="twitter_large_article_P_6">
+                       <a href="http://t.co/uULA47di9M" id="twitter_large_article_A_7">{{data['og:description']}}</a>
+                    </p>
+                  </div> <a href="https://twitter.com/TechCrunch" id="twitter_large_article_A_8"><img alt="" ng-src="{{data.customIconUrl}}" id="twitter_large_article_IMG_9" /> <span id="twitter_large_article_SPAN_10">{{data['twitter:site']}}</span></a>
+                </div>
+                <div id="tweet_DIV_148">
+                  <ul id="tweet_UL_149">
+                    <li id="tweet_LI_150">
+                       <a tabindex="0" id="tweet_A_151">Retweets <strong id="tweet_STRONG_152">65</strong></a>
+                    </li>
+                    <li id="tweet_LI_153">
+                       <a tabindex="0" id="tweet_A_154">Favorites <strong id="tweet_STRONG_155">104</strong></a>
+                    </li>
+                    <li id="tweet_LI_156">
+                       <a href="https://twitter.com/LeoKingston" title="Leo Kingston" id="tweet_A_157"><img src="https://pbs.twimg.com/profile_images/548736736076242944/RrexESYX_normal.jpeg" alt="Leo Kingston" id="tweet_IMG_158" /></a> <a href="https://twitter.com/julmisjames" title="James Julmis" id="tweet_A_159"><img src="https://pbs.twimg.com/profile_images/455583957959335936/O6TKihNT_normal.jpeg" alt="James Julmis" id="tweet_IMG_160" /></a> <a href="https://twitter.com/Tyler_Plummer" id="tweet_A_161"><img src="https://pbs.twimg.com/profile_images/561735971092594688/ERM8m_F-_normal.jpeg" alt="Tyler Plummer" id="tweet_IMG_162" /></a> <a href="https://twitter.com/WaqasBukhari15" title="Waqas Bukhari" id="tweet_A_163"><img src="https://pbs.twimg.com/profile_images/564485533036859392/V41kXytR_normal.jpeg" alt="Waqas Bukhari" id="tweet_IMG_164" /></a> <a href="https://twitter.com/brosigchase_" title="ツ" id="tweet_A_165"><img src="https://pbs.twimg.com/profile_images/553047021808939009/DeCBt_3V_normal.jpeg" alt="ツ" id="tweet_IMG_166" /></a> <a href="https://twitter.com/connectHeadsUp" title="HeadsUP!" id="tweet_A_167"><img src="https://pbs.twimg.com/profile_images/378800000672113557/b445bc4d1eee35adf30f255848d426ce_normal.jpeg" alt="HeadsUP!" id="tweet_IMG_168" /></a> <a href="https://twitter.com/davidvega1999" title="David Vega" id="tweet_A_169"><img src="https://pbs.twimg.com/profile_images/558733476015665152/n7r91irG_normal.jpeg" alt="David Vega" id="tweet_IMG_170" /></a> <a href="https://twitter.com/DanielBmxUs" title="T-Raww" id="tweet_A_171"><img src="https://pbs.twimg.com/profile_images/486326199522586624/hfLDbaRs_normal.jpeg" alt="T-Raww" id="tweet_IMG_172" /></a> <a href="https://twitter.com/MilesLite" title="Mila" id="tweet_A_173"><img src="https://pbs.twimg.com/profile_images/481094329511849986/MHP4hKo7_normal.jpeg" alt="Mila" id="tweet_IMG_174" /></a>
+                    </li>
+                  </ul>
+                </div>
+                <div id="tweet_DIV_175">
+                   <span id="tweet_SPAN_176"> <span id="tweet_SPAN_177">7:14 PM - 13 Feb 2015</span></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <div layout="center center">
+        <md-radio-group ng-model="data['facebook:card']" layout="row" layout-align="space-around center">
+          <md-radio-button ng-repeat="t in facebookCardTypes" ng-value="t">
+                 {{t}}
+          </md-radio-button>
+        </md-radio-group>
+    </div>
+    <div>
+
+    <div id="fb_DIV_1">
+      <div id="fb_DIV_5">
+        <a href="https://www.facebook.com/condonmatt?fref=nf" tabindex="-1" id="fb_A_6"><img src="https://pbs.twimg.com/profile_images/597965187333894144/W9M7fOr6_400x400.jpg" alt="" id="fb_IMG_7" /></a>
+        <div id="fb_DIV_8">
+          <div id="fb_DIV_9">
+            <div id="fb_DIV_10">
+              <div id="fb_DIV_12">
+                <h5 id="fb_H5_13">
+                  <div id="fb_DIV_14">
+                    <span id="fb_SPAN_15"><a href="https://www.facebook.com/condonmatt" id="fb_A_16">Matt Condon</a></span>
+                  </div>
+                </h5>
+                <div id="fb_DIV_18">
+                  <span id="fb_SPAN_19"><span id="fb_SPAN_20"><a href="https://www.facebook.com/video.php?v=10202871390220574" rel="theater" id="fb_A_21"><abbr title="Sunday, February 15, 2015 at 9:19pm" id="fb_ABBR_22">17 hrs</abbr></a> · <a href="https://www.facebook.com/pages/San-Francisco-California/114952118516947" id="fb_A_23">San Francisco, CA</a></span></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="fb_DIV_31">
+        <p id="fb_P_32">
+          {{data.customStatusText}}
+        </p>
+      </div>
+      <div id="fb_DIV_33">
+        <div id="fb_DIV_34">
+          <div id="fb_DIV_35">
+            <div ng-if="data['facebook:card'] == 'photo'" id="fb_DIV_36">
+              <div id="fb_DIV_37">
+                <div id="fb_DIV_38">
+                  <div id="fb_DIV_39">
+                    <div id="fb_DIV_40">
+                      <div id="fb_DIV_41">
+                        <embed type="application/x-shockwave-flash" src="https://fbstatic-a.akamaihd.net/rsrc.php/v1/y1/r/CjmXCrsNzDH.swf" width="487" height="273" id="fb_EMBED_42" />
+                      </div>
+                      <div id="fb_DIV_43">
+                        <div id="fb_DIV_44">
+                          <img ng-src="{{data['og:image']}}" alt="" width="497" height="280" id="fb_IMG_45" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div ng-if="data['facebook:card'] == 'article'" id="fb_article_DIV_1">
+              <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fblogs.adobe.com%2Fjd1%2Farchives%2F2007%2F02%2Fbaker-hamilton.html" id="fb_article_A_2"></a>
+              <div id="fb_article_DIV_4">
+                <div id="fb_article_DIV_5">
+                  <div id="fb_article_DIV_6">
+                    <span id="fb_article_SPAN_7"></span>
+                    <div id="fb_article_DIV_8">
+                      <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fblogs.adobe.com%2Fjd1%2Farchives%2F2007%2F02%2Fbaker-hamilton.html&amp;h=LAQG2Qark&amp;enc=AZPgf_Eri6g5PzRZpsmSUyux3frMXZbcS0cH0fKW9YsLifFKZs77zJpjTaM9MXMy7sDnXrjOikdIhIgSkteOaticY28Wcxo9_Vc505GfucOw3g&amp;s=1" rel="nofollow" id="fb_article_A_9"></a>
+                      <div id="fb_article_DIV_10">
+                        <div id="fb_article_DIV_11">
+                          <img ng-src="{{data['og:image']}}" alt="" width="158" height="158" id="fb_article_IMG_12" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div id="fb_article_DIV_13">
+                    <span id="fb_article_SPAN_14"></span>
+                    <div id="fb_article_DIV_15">
+                      <div id="fb_article_DIV_16">
+                        <div id="fb_article_DIV_17">
+                          <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fblogs.adobe.com%2Fjd1%2Farchives%2F2007%2F02%2Fbaker-hamilton.html&amp;h=NAQFo_bID&amp;s=1" rel="nofollow" id="fb_article_A_18">{{data['og:title']}}</a>
+                        </div>
+                        <div id="fb_article_DIV_19">
+                          <div id="fb_article_DIV_20">
+                            {{data['og:description']}}
+                          </div>
+                          <div id="fb_article_DIV_21">
+                            <div id="fb_article_DIV_22">
+                              {{data['og:site_name']}}
+                            </div>
+                          </div>
+                        </div>
+                      </div><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fblogs.adobe.com%2Fjd1%2Farchives%2F2007%2F02%2Fbaker-hamilton.html&amp;h=gAQFHYuKf&amp;enc=AZOybqv4GBbRrMMWSu50hLk7xSspouLqZr01pSXLCDOJHUVvZcAelqwnh2VMo3Ov3bKZG46R8_-PnlapHwVDWwNvxsWT5aHNdygRrrwCadvtQQ&amp;s=1" rel="nofollow" id="fb_article_A_23"></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div ng-if="data['facebook:card'] == 'article_large_photo'" id="fb_article_large_photo_DIV_1">
+              <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2015%2F02%2F16%2Fsports%2Fwestminster-dog-show-quiz.html%3Fhp%26action%3Dclick%26pgtype%3DHomepage%26module%3Dphoto-spot-region%26region%3Dtop-news%26WT.nav%3Dtop-news" id="fb_article_large_photo_A_2"></a>
+              <div id="fb_article_large_photo_DIV_3">
+              </div>
+              <div id="fb_article_large_photo_DIV_4">
+                <div id="fb_article_large_photo_DIV_5">
+                  <div id="fb_article_large_photo_DIV_6">
+                    <span id="fb_article_large_photo_SPAN_7"></span>
+                    <div id="fb_article_large_photo_DIV_8">
+                      <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2015%2F02%2F16%2Fsports%2Fwestminster-dog-show-quiz.html&amp;h=DAQF0ekcb&amp;enc=AZOPlHSRxNz0ZZ-5vGAa4LshzGQjCtTIeByJrb5aVmS5RX9WWcl6WwN1uP53Y-a_2MVJEEFfpoB5KV8n9h1-OvpVJuhNF4NzcEjCfhjz1-UpmQ&amp;s=1" rel="nofollow" id="fb_article_large_photo_A_9"></a>
+                      <div id="fb_article_large_photo_DIV_10">
+                        <div id="fb_article_large_photo_DIV_11">
+                          <img ng-src="{{data['og:image']}}" alt="" width="470" height="246" id="fb_article_large_photo_IMG_12" />
+                        </div>
+                      </div>
+                    </div>
+                    <div id="fb_article_large_photo_DIV_13">
+                      <div id="fb_article_large_photo_DIV_14">
+                        <div id="fb_article_large_photo_DIV_15">
+                          <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2015%2F02%2F16%2Fsports%2Fwestminster-dog-show-quiz.html&amp;h=WAQGJgmgf&amp;s=1" rel="nofollow" id="fb_article_large_photo_A_16">{{data['og:title']}}</a>
+                        </div>
+                        <div id="fb_article_large_photo_DIV_17">
+                          <div id="fb_article_large_photo_DIV_18">
+                            {{data['og:description']}}
+                          </div>
+                          <div id="fb_article_large_photo_DIV_19">
+                            <div id="fb_article_large_photo_DIV_20">
+                              {{data['og:site_name']}}
+                            </div>
+                          </div>
+                        </div>
+                      </div><a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2015%2F02%2F16%2Fsports%2Fwestminster-dog-show-quiz.html&amp;h=WAQGJgmgf&amp;enc=AZOo7vPKjfOy8MQstZuqNE0Cq5I40F_DSI9aH3nRV6BoCd90UFY1ZRNN0n1MtfwYhyM8gE39A19VnSuSXTEudNaldcdw2UyX9WRbGCZJaS_p8w&amp;s=1" rel="nofollow" id="fb_article_large_photo_A_21"></a>
+                    </div>
+                  </div>
+                  <div id="fb_article_large_photo_DIV_22">
+                    <span id="fb_article_large_photo_SPAN_23"></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div id="fb_DIV_50">
+        <form method="post" action="/ajax/ufi/modify.php" id="fb_FORM_51">
+          <input type="hidden" name="charset_test" value="€,´,€,´,水,Д,Є" id="fb_INPUT_52" />
+          <input type="hidden" name="fb_dtsg" value="AQEeCcTtiIocB7w" id="fb_INPUT_53" />
+          <input type="hidden" name="feedback_params" value="{&quot;actor&quot;:&quot;1676625860&quot;,&quot;target_fbid&quot;:&quot;10202871390220574&quot;,&quot;target_profile_id&quot;:&quot;1676625860&quot;,&quot;type_id&quot;:&quot;38&quot;,&quot;assoc_obj_id&quot;:&quot;0&quot;,&quot;source_app_id&quot;:&quot;0&quot;,&quot;extra_story_params&quot;:[],&quot;content_timestamp&quot;:&quot;1424063964&quot;,&quot;check_hash&quot;:&quot;AQAc9MGZZi6w10IXzE4&quot;,&quot;source&quot;:&quot;13&quot;}" id="fb_INPUT_54" />
+          <input type="hidden" name="data_only_response" value="1" id="fb_INPUT_55" />
+          <div id="fb_DIV_56">
+            <div id="fb_DIV_57">
+              <label id="fb_LABEL_61">
+                <input type="button" value="Comment" id="fb_INPUT_62" />
+              </label> · <span id="fb_SPAN_63"><a href="/ajax/sharer/?s=11&amp;appid=2392950137&amp;id=10202871390220574&amp;p%5B0%5D=10202871390220574&amp;share_source_type=unknown" rel="dialog" title="Send this to friends or post it on your timeline." id="fb_A_64"><span id="fb_SPAN_65">Share</span></a></span>
+            </div>
+          </div>
+          <div id="fb_DIV_66">
+            <ul id="fb_UL_67">
+              <li id="fb_LI_68">
+                <div id="fb_DIV_69">
+                  <div id="fb_DIV_70">
+                    <a href="#" tabindex="-1" title="Like this" id="fb_A_71"><i id="fb_I_72"></i></a>
+                  </div>
+                  <div id="fb_DIV_73">
+                    <div id="fb_DIV_74">
+                      <div id="fb_DIV_75">
+                        <span id="fb_SPAN_76"><a id="fb_A_77">John Doe</a> <span id="fb_SPAN_78">and</span> <a id="fb_A_79">Jane Doe</a> <span id="fb_SPAN_80">like this.</span></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li id="fb_LI_81">
+                <div id="fb_DIV_82">
+                  <div id="fb_DIV_83">
+                    <div id="fb_DIV_84">
+                      <img src="https://pbs.twimg.com/profile_images/597965187333894144/W9M7fOr6_400x400.jpg" alt="Matt Condon" id="fb_IMG_85" />
+                    </div>
+                  </div>
+                  <div id="fb_DIV_86">
+                    <div id="fb_DIV_87">
+                      <div id="fb_DIV_88">
+                        <div id="fb_DIV_89">
+                          <div id="fb_DIV_90">
+                            <input name="add_comment_text" tabindex="-1" id="fb_INPUT_91" />
+                            <div id="fb_DIV_92">
+                              Write a comment...
+                            </div>
+                          </div>
+                          <div id="fb_DIV_93">
+                            <div id="fb_DIV_94">
+                              <i id="fb_I_95"><input type="file" accept="image/*" name="file" id="fb_INPUT_96" /></i>
+                            </div><a href="#" id="fb_A_97"></a>
+                            <div id="fb_DIV_98">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    </div>
+
+  </div>
+</div>

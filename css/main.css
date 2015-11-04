@@ -1,0 +1,6073 @@
+.full-width {
+  width: 100%;
+}
+
+#tweet_DIV_1 {
+    color: rgb(41, 47, 51);
+    height: 290px;
+    position: relative;
+    width: 640px;
+    perspective-origin: 320px 145px;
+    transform-origin: 320px 145px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_1*/
+
+#tweet_DIV_2 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 230px;
+    min-height: 51px;
+    position: relative;
+    width: 560px;
+    perspective-origin: 320px 145px;
+    transform-origin: 320px 145px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(41, 47, 51);
+    border-radius: 5px 5px 0 0;
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 30px 40px;
+}/*#tweet_DIV_2*/
+
+#tweet_DIV_3 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 63px;
+    width: 502px;
+    perspective-origin: 251px 31.5px;
+    transform-origin: 251px 31.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 58px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_3*/
+
+#tweet_DIV_3:after {
+    clear: both;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_3:after*/
+
+#tweet_DIV_3:before {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_3:before*/
+
+#tweet_DIV_4 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 48px;
+    width: 502px;
+    perspective-origin: 251px 24px;
+    transform-origin: 251px 24px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 15px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_4*/
+
+#tweet_DIV_5 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    float: right;
+    height: 36px;
+    width: 137.90625px;
+    perspective-origin: 68.953125px 18px;
+    transform-origin: 68.953125px 18px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_5*/
+
+#tweet_DIV_5:after {
+    clear: both;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_5:after*/
+
+#tweet_DIV_5:before {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_5:before*/
+
+#tweet_DIV_6 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 36px;
+    position: relative;
+    width: 137.90625px;
+    perspective-origin: 68.953125px 18px;
+    transform-origin: 68.953125px 18px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_6*/
+
+#tweet_DIV_7 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: inline-block;
+    height: 35px;
+    position: relative;
+    width: 35px;
+    perspective-origin: 17.5px 17.5px;
+    transform-origin: 17.5px 17.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_7*/
+
+#tweet_BUTTON_8 {
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    height: 35px;
+    min-height: 0px;
+    position: relative;
+    width: 35px;
+    perspective-origin: 17.5px 17.5px;
+    transform-origin: 17.5px 17.5px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px 4px 4px 4px;
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 0px 0px 0px 5px;
+}/*#tweet_BUTTON_8*/
+
+#tweet_SPAN_9 {
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: inline-block;
+    height: 18px;
+    text-align: center;
+    width: 17px;
+    align-self: flex-start;
+    perspective-origin: 8.5px 9px;
+    transform-origin: 8.5px 9px;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal bold normal 18px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 8px 0px 3px;
+    outline: rgb(102, 117, 127) none 0px;
+}/*#tweet_SPAN_9*/
+
+#tweet_SPAN_9:before {
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: 18px;
+    text-align: center;
+    width: 17px;
+    perspective-origin: 8.5px 9px;
+    transform-origin: 8.5px 9px;
+    content: '';
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 18px/18px rosettaicons;
+    outline: rgb(102, 117, 127) none 0px;
+}/*#tweet_SPAN_9:before*/
+
+#tweet_SPAN_10 {
+    clip: rect(0px 0px 0px 0px);
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal bold normal 18px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: -1px;
+    outline: rgb(102, 117, 127) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_10*/
+
+#tweet_DIV_11 {
+    box-shadow: rgba(0, 0, 0, 0.247059) 0px 1px 4px 0px;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    float: left;
+    height: auto;
+    position: absolute;
+    right: -1px;
+    top: 100%;
+    width: auto;
+    z-index: 900;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(255, 255, 255, 0.980392) none repeat scroll 0% 0% / auto padding-box padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.247059);
+    border-radius: 4px 4px 4px 4px;
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 2px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 10px 0px;
+}/*#tweet_DIV_11*/
+
+#tweet_DIV_12 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 10px;
+    position: absolute;
+    right: 13px;
+    top: -10px;
+    width: 18px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_DIV_12*/
+
+#tweet_SPAN_13 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 10px solid rgba(0, 0, 0, 0);
+    border-bottom: 10px solid rgba(0, 0, 0, 0.0980392);
+    border-left: 10px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -1px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_13*/
+
+#tweet_SPAN_14 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 9px solid rgba(0, 0, 0, 0);
+    border-bottom: 9px solid rgba(255, 255, 255, 0.980392);
+    border-left: 9px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -1px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_14*/
+
+#tweet_UL_15 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: auto;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 0px;
+}/*#tweet_UL_15*/
+
+#tweet_LI_16 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_16*/
+
+#tweet_BUTTON_17 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_17*/
+
+#tweet_LI_18 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_18*/
+
+#tweet_BUTTON_19 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_19*/
+
+#tweet_LI_20 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_20*/
+
+#tweet_BUTTON_21 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_21*/
+
+#tweet_LI_22 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 0px none rgb(41, 47, 51);
+    border-bottom: 1px solid rgb(225, 232, 237);
+    border-left: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 5px 1px 6px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 1px 0px 0px;
+}/*#tweet_LI_22*/
+
+#tweet_LI_23 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_23*/
+
+#tweet_BUTTON_24 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_24*/
+
+#tweet_LI_25 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_25*/
+
+#tweet_BUTTON_26 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_26*/
+
+#tweet_LI_27 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_27*/
+
+#tweet_BUTTON_28 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_28*/
+
+#tweet_LI_29 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_29*/
+
+#tweet_BUTTON_30 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_30*/
+
+#tweet_LI_31 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_31*/
+
+#tweet_BUTTON_32 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_32*/
+
+#tweet_LI_33 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_33*/
+
+#tweet_BUTTON_34 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_34*/
+
+#tweet_LI_35 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 0px none rgb(41, 47, 51);
+    border-bottom: 1px solid rgb(225, 232, 237);
+    border-left: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 5px 1px 6px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 1px 0px 0px;
+}/*#tweet_LI_35*/
+
+#tweet_LI_36 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_36*/
+
+#tweet_BUTTON_37 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_37*/
+
+#tweet_LI_38 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_38*/
+
+#tweet_BUTTON_39 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_39*/
+
+#tweet_LI_40 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_40*/
+
+#tweet_BUTTON_41 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_41*/
+
+#tweet_LI_42 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_42*/
+
+#tweet_BUTTON_43 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_43*/
+
+#tweet_LI_44 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 0px none rgb(41, 47, 51);
+    border-bottom: 1px solid rgb(225, 232, 237);
+    border-left: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 5px 1px 6px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 1px 0px 0px;
+}/*#tweet_LI_44*/
+
+#tweet_LI_45 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_45*/
+
+#tweet_BUTTON_46 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_46*/
+
+#tweet_BUTTON_47 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    height: 36px;
+    min-height: 0px;
+    position: relative;
+    vertical-align: top;
+    width: 99px;
+    perspective-origin: 49.5px 18px;
+    transform-origin: 49.5px 18px;
+    background: rgb(245, 248, 250) linear-gradient(rgb(255, 255, 255), rgb(245, 248, 250)) no-repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(225, 232, 237);
+    border-radius: 4px 4px 4px 4px;
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 4px 12px 9px;
+}/*#tweet_BUTTON_47*/
+
+#tweet_SPAN_48 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: block;
+    height: 21px;
+    min-width: 73px;
+    text-align: center;
+    width: 73px;
+    align-self: flex-start;
+    perspective-origin: 36.5px 10.5px;
+    transform-origin: 36.5px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_48*/
+
+#tweet_SPAN_49 {
+    color: rgb(85, 172, 238);
+    cursor: pointer;
+    display: inline-block;
+    height: 17px;
+    position: relative;
+    text-align: center;
+    top: 3px;
+    width: 18.046875px;
+    perspective-origin: 10.515625px 8.5px;
+    transform-origin: 10.515625px 8.5px;
+    border: 0px none rgb(85, 172, 238);
+    font: normal normal bold normal 18px/17px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(85, 172, 238) none 0px;
+    padding: 0px 3px 0px 0px;
+}/*#tweet_SPAN_49*/
+
+#tweet_SPAN_49:before {
+    color: rgb(85, 172, 238);
+    cursor: pointer;
+    display: block;
+    height: 17px;
+    text-align: center;
+    width: 18.046875px;
+    perspective-origin: 9.015625px 8.5px;
+    transform-origin: 9.015625px 8.5px;
+    content: '';
+    border: 0px none rgb(85, 172, 238);
+    font: normal normal normal normal 18px/17px rosettaicons;
+    outline: rgb(85, 172, 238) none 0px;
+}/*#tweet_SPAN_49:before*/
+
+#tweet_SPAN_50 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: none;
+    min-width: 73px;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_50*/
+
+#tweet_SPAN_51 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: none;
+    min-width: 73px;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_51*/
+
+#tweet_SPAN_52 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: none;
+    min-width: 73px;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_52*/
+
+#tweet_SPAN_53 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: none;
+    min-width: 73px;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_53*/
+
+#tweet_SPAN_54 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: none;
+    min-width: 73px;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_54*/
+
+#tweet_SPAN_55 {
+    color: rgb(41, 47, 51);
+    cursor: pointer;
+    display: none;
+    min-width: 73px;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/normal 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_SPAN_55*/
+
+#tweet_A_56 {
+    color: rgb(96, 118, 150);
+    display: block;
+    float: left;
+    height: 48px;
+    text-decoration: none;
+    width: 196.15625px;
+    perspective-origin: 98.078125px 24px;
+    transform-origin: 98.078125px 24px;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_A_56*/
+
+#tweet_IMG_57 {
+    color: rgb(96, 118, 150);
+    display: block;
+    float: left;
+    height: 48px;
+    width: 48px;
+    perspective-origin: 24px 24px;
+    transform-origin: 24px 24px;
+    border: 0px none rgb(96, 118, 150);
+    border-radius: 5px 5px 5px 5px;
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -58px;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_IMG_57*/
+
+#tweet_STRONG_58 {
+    color: rgb(41, 47, 51);
+    display: block;
+    height: 22px;
+    width: 196.15625px;
+    perspective-origin: 98.078125px 12px;
+    transform-origin: 98.078125px 12px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 18px/22.5px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 3px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 2px 0px 0px;
+}/*#tweet_STRONG_58*/
+
+#tweet_SPAN_59 {
+    color: rgb(136, 201, 249);
+    display: inline-block;
+    height: 15px;
+    position: relative;
+    top: 0px;
+    width: 15.53125px;
+    perspective-origin: 7.765625px 7.5px;
+    transform-origin: 7.765625px 7.5px;
+    border: 0px none rgb(136, 201, 249);
+    font: normal normal bold normal 16px/15px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 3px;
+    outline: rgb(136, 201, 249) none 0px;
+}/*#tweet_SPAN_59*/
+
+#tweet_SPAN_59:before {
+    color: rgb(136, 201, 249);
+    display: block;
+    height: 15px;
+    text-align: center;
+    width: 15.53125px;
+    perspective-origin: 7.765625px 7.5px;
+    transform-origin: 7.765625px 7.5px;
+    content: '';
+    border: 0px none rgb(136, 201, 249);
+    font: normal normal normal normal 16px/15px rosettaicons;
+    outline: rgb(136, 201, 249) none 0px;
+}/*#tweet_SPAN_59:before*/
+
+#tweet_SPAN_60 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(136, 201, 249);
+    display: block;
+    height: 1px;
+    position: absolute;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(136, 201, 249);
+    font: normal normal bold normal 16px/15px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 201, 249) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_60*/
+
+#tweet_SPAN_61 {
+    color: rgb(96, 118, 150);
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_61*/
+
+#tweet_SPAN_62 {
+    color: rgb(136, 153, 166);
+    unicode-bidi: embed;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_62*/
+
+#tweet_S_63 {
+    color: rgb(177, 187, 195);
+    text-decoration: none;
+    border: 0px none rgb(177, 187, 195);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(177, 187, 195) none 0px;
+}/*#tweet_S_63*/
+
+#tweet_B_64 {
+    color: rgb(136, 153, 166);
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_B_64*/
+
+#tweet_SMALL_65 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    display: none;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SMALL_65*/
+
+#tweet_SMALL_65:before {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '·';
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SMALL_65:before*/
+
+#tweet_A_66 {
+    color: rgb(136, 153, 166);
+    text-decoration: none;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_A_66*/
+
+#tweet_SPAN_67 {
+    color: rgb(136, 153, 166);
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_67*/
+
+#tweet_SPAN_68 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(136, 153, 166);
+    display: block;
+    height: 1px;
+    position: absolute;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_68*/
+
+#tweet_P_69 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 34px;
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    width: 560px;
+    word-wrap: break-word;
+    perspective-origin: 280px 17px;
+    transform-origin: 280px 17px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal 300 normal 28px/34px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_P_69*/
+
+#tweet_A_70 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    text-decoration: none;
+    unicode-bidi: embed;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 28px/34px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_A_70*/
+
+#tweet_SPAN_71 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 28px/34px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_71*/
+
+#tweet_SPAN_72 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 0px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_72*/
+
+#tweet_SPAN_73 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 28px/34px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_73*/
+
+#tweet_SPAN_74 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 0px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_74*/
+
+#tweet_SPAN_75 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 28px/34px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_75*/
+
+#tweet_SPAN_76 {
+    color: rgb(96, 118, 150);
+    letter-spacing: 0.280000001192093px;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 300 normal 0px/0px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_76*/
+
+#tweet_DIV_77 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 26px;
+    width: 560px;
+    perspective-origin: 280px 13.5px;
+    transform-origin: 280px 13.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 1px 0px 0px;
+}/*#tweet_DIV_77*/
+
+#tweet_SPAN_78 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: 1px;
+    position: absolute;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_78*/
+
+#tweet_SPAN_79 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    display: none;
+    position: relative;
+    top: -2px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_79*/
+
+#tweet_SPAN_80 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_80*/
+
+#tweet_SPAN_81 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: 1px;
+    position: absolute;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_81*/
+
+#tweet_SPAN_82 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    display: none;
+    position: relative;
+    top: -2px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_82*/
+
+#tweet_SPAN_83 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_83*/
+
+#tweet_SPAN_84 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: 1px;
+    position: absolute;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_84*/
+
+#tweet_SPAN_85 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    display: none;
+    position: relative;
+    top: -2px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_85*/
+
+#tweet_SPAN_86 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_86*/
+
+#tweet_DIV_87 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 21px;
+    width: 560px;
+    perspective-origin: 280px 10.5px;
+    transform-origin: 280px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 5px 0px 2px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_87*/
+
+#tweet_DIV_87:after {
+    clear: both;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_87:after*/
+
+#tweet_DIV_87:before {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_87:before*/
+
+#tweet_DIV_88 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    float: left;
+    height: 21px;
+    width: 19.921875px;
+    perspective-origin: 9.953125px 10.5px;
+    transform-origin: 9.953125px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 31px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_88*/
+
+#tweet_BUTTON_89 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    height: 18px;
+    min-height: 0px;
+    position: relative;
+    top: 4px;
+    width: 19.921875px;
+    perspective-origin: 9.953125px 9px;
+    transform-origin: 9.953125px 9px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    padding: 0px 2px;
+}/*#tweet_BUTTON_89*/
+
+#tweet_SPAN_90 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    text-align: center;
+    width: 15.921875px;
+    align-self: flex-start;
+    perspective-origin: 7.953125px 8px;
+    transform-origin: 7.953125px 8px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_90*/
+
+#tweet_SPAN_90:before {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    text-align: center;
+    width: 15.921875px;
+    perspective-origin: 7.953125px 8px;
+    transform-origin: 7.953125px 8px;
+    content: '';
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px rosettaicons;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_90:before*/
+
+#tweet_SPAN_91 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_91*/
+
+#tweet_SPAN_92 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -2px;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_92*/
+
+#tweet_SPAN_93 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_93*/
+
+#tweet_DIV_94 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    float: left;
+    height: 21px;
+    width: 23.890625px;
+    perspective-origin: 11.9375px 10.5px;
+    transform-origin: 11.9375px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 31px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_94*/
+
+#tweet_BUTTON_95 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    height: 18px;
+    min-height: 0px;
+    position: relative;
+    top: 4px;
+    width: 23.890625px;
+    perspective-origin: 11.9375px 9px;
+    transform-origin: 11.9375px 9px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    padding: 0px 2px;
+}/*#tweet_BUTTON_95*/
+
+#tweet_SPAN_96 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    text-align: center;
+    width: 19.890625px;
+    align-self: flex-start;
+    perspective-origin: 9.9375px 8px;
+    transform-origin: 9.9375px 8px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_96*/
+
+#tweet_SPAN_96:before {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    text-align: center;
+    width: 19.890625px;
+    perspective-origin: 9.9375px 8px;
+    transform-origin: 9.9375px 8px;
+    content: '';
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px rosettaicons;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_96:before*/
+
+#tweet_SPAN_97 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_97*/
+
+#tweet_SPAN_98 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -2px;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_98*/
+
+#tweet_SPAN_99 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_99*/
+
+#tweet_BUTTON_100 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: none;
+    height: auto;
+    min-height: 0px;
+    position: relative;
+    top: 4px;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    padding: 0px 2px;
+}/*#tweet_BUTTON_100*/
+
+#tweet_SPAN_101 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_101*/
+
+#tweet_SPAN_101:before {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '';
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px rosettaicons;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_101:before*/
+
+#tweet_SPAN_102 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_102*/
+
+#tweet_SPAN_103 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -2px;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_103*/
+
+#tweet_SPAN_104 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_104*/
+
+#tweet_DIV_105 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    width: 560px;
+    perspective-origin: 280px 0px;
+    transform-origin: 280px 0px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_105*/
+
+#tweet_A_106 {
+    color: rgb(96, 118, 150);
+    display: block;
+    float: left;
+    height: 18px;
+    text-decoration: none;
+    width: 16px;
+    perspective-origin: 8px 9px;
+    transform-origin: 8px 9px;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 31px 0px 0px;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_A_106*/
+
+#tweet_SPAN_107 {
+    background-position: -5px -5px;
+    color: rgb(96, 118, 150);
+    display: inline-block;
+    height: 16px;
+    position: relative;
+    top: 4px;
+    vertical-align: text-top;
+    width: 16px;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    background: rgb(204, 214, 221) url(https://d2jjx1cmnmp22i.cloudfront.net/safari/twttr-sprite@1x.png) no-repeat scroll -5px -5px / auto padding-box border-box;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_SPAN_107*/
+
+#tweet_DIV_108 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    float: left;
+    height: 21px;
+    width: 18.390625px;
+    perspective-origin: 9.1875px 10.5px;
+    transform-origin: 9.1875px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 31px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_108*/
+
+#tweet_BUTTON_109 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    height: 18px;
+    min-height: 0px;
+    position: relative;
+    top: 4px;
+    width: 18.390625px;
+    perspective-origin: 9.1875px 9px;
+    transform-origin: 9.1875px 9px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    padding: 0px 2px;
+}/*#tweet_BUTTON_109*/
+
+#tweet_SPAN_110 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    text-align: center;
+    width: 14.390625px;
+    align-self: flex-start;
+    perspective-origin: 7.1875px 8px;
+    transform-origin: 7.1875px 8px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_110*/
+
+#tweet_SPAN_110:before {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    text-align: center;
+    width: 14.390625px;
+    perspective-origin: 7.1875px 8px;
+    transform-origin: 7.1875px 8px;
+    content: '';
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px rosettaicons;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_110:before*/
+
+#tweet_SPAN_111 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_111*/
+
+#tweet_SPAN_112 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -2px;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_112*/
+
+#tweet_SPAN_113 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_113*/
+
+#tweet_BUTTON_114 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: none;
+    height: auto;
+    min-height: 0px;
+    position: relative;
+    top: 4px;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    padding: 0px 2px;
+}/*#tweet_BUTTON_114*/
+
+#tweet_SPAN_115 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_115*/
+
+#tweet_SPAN_115:before {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '';
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px rosettaicons;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_115:before*/
+
+#tweet_SPAN_116 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_116*/
+
+#tweet_SPAN_117 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: none;
+    position: relative;
+    text-align: center;
+    top: -2px;
+    align-self: flex-start;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 0px 4px;
+    transition: padding 0.5s ease-out 0s;
+}/*#tweet_SPAN_117*/
+
+#tweet_SPAN_118 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    text-align: center;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal bold normal 12px/12px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_118*/
+
+#tweet_DIV_119 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    float: left;
+    height: 21px;
+    width: 22.921875px;
+    perspective-origin: 11.453125px 10.5px;
+    transform-origin: 11.453125px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 31px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_119*/
+
+#tweet_DIV_120 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 21px;
+    position: relative;
+    width: 22.921875px;
+    perspective-origin: 11.453125px 10.5px;
+    transform-origin: 11.453125px 10.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_120*/
+
+#tweet_BUTTON_121 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    height: 18px;
+    min-height: 0px;
+    position: relative;
+    top: 4px;
+    width: 22.921875px;
+    perspective-origin: 11.453125px 9px;
+    transform-origin: 11.453125px 9px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    padding: 0px 2px;
+}/*#tweet_BUTTON_121*/
+
+#tweet_SPAN_122 {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: inline-block;
+    height: 16px;
+    text-align: center;
+    width: 18.921875px;
+    align-self: flex-start;
+    perspective-origin: 9.453125px 8px;
+    transform-origin: 9.453125px 8px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_122*/
+
+#tweet_SPAN_122:before {
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    text-align: center;
+    width: 18.921875px;
+    perspective-origin: 9.453125px 8px;
+    transform-origin: 9.453125px 8px;
+    content: '';
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px rosettaicons;
+    outline: rgb(204, 214, 221) none 0px;
+}/*#tweet_SPAN_122:before*/
+
+#tweet_SPAN_123 {
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(204, 214, 221);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(204, 214, 221);
+    font: normal normal normal normal 16px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 214, 221) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_123*/
+
+#tweet_DIV_124 {
+    box-shadow: rgba(0, 0, 0, 0.247059) 0px 1px 4px 0px;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    float: left;
+    height: auto;
+    position: absolute;
+    top: 100%;
+    width: auto;
+    z-index: 900;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(255, 255, 255, 0.980392) none repeat scroll 0% 0% / auto padding-box padding-box;
+    border: 0px solid rgba(0, 0, 0, 0.247059);
+    border-radius: 4px 4px 4px 4px;
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 8px -10px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 10px 0px;
+}/*#tweet_DIV_124*/
+
+#tweet_DIV_125 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 10px;
+    left: 12px;
+    position: absolute;
+    top: -10px;
+    width: 18px;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_DIV_125*/
+
+#tweet_DIV_126 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: auto;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 10px solid rgba(0, 0, 0, 0);
+    border-bottom: 10px solid rgba(0, 0, 0, 0.0980392);
+    border-left: 10px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -1px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_126*/
+
+#tweet_DIV_127 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: auto;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    width: auto;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(41, 47, 51);
+    border-right: 9px solid rgba(0, 0, 0, 0);
+    border-bottom: 9px solid rgba(255, 255, 255, 0.980392);
+    border-left: 9px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px -1px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_127*/
+
+#tweet_UL_128 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: auto;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 0px;
+}/*#tweet_UL_128*/
+
+#tweet_LI_129 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_129*/
+
+#tweet_BUTTON_130 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_130*/
+
+#tweet_LI_131 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_131*/
+
+#tweet_BUTTON_132 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_132*/
+
+#tweet_LI_133 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_133*/
+
+#tweet_BUTTON_134 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_134*/
+
+#tweet_LI_135 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_135*/
+
+#tweet_BUTTON_136 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_136*/
+
+#tweet_LI_137 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: none;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_137*/
+
+#tweet_BUTTON_138 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_138*/
+
+#tweet_LI_139 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    height: auto;
+    text-align: start;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_LI_139*/
+
+#tweet_BUTTON_140 {
+    clear: both;
+    color: rgb(102, 117, 127);
+    cursor: pointer;
+    display: block;
+    height: auto;
+    min-height: 0px;
+    min-width: 100%;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(102, 117, 127);
+    font: normal normal normal normal 13px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 117, 127) none 0px;
+    padding: 5px 20px;
+}/*#tweet_BUTTON_140*/
+
+#tweet_DIV_141 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 104px;
+    width: 560px;
+    perspective-origin: 280px 52px;
+    transform-origin: 280px 52px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    margin-top: 5px;
+}/*#tweet_DIV_141*/
+
+#tweet_DIV_142 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    position: relative;
+    width: 560px;
+    perspective-origin: 280px 0px;
+    transform-origin: 280px 0px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_142*/
+
+#tweet_DIV_142:after {
+    clear: both;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_142:after*/
+
+#tweet_DIV_142:before {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_142:before*/
+
+#tweet_DIV_143 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 94px;
+    width: 560px;
+    perspective-origin: 280px 47px;
+    transform-origin: 280px 47px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_143*/
+
+#tweet_DIV_144 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    width: 560px;
+    perspective-origin: 280px 1px;
+    transform-origin: 280px 1px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 10px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 0px 0px 2px;
+}/*#tweet_DIV_144*/
+
+#tweet_DIV_145 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    width: 560px;
+    perspective-origin: 280px 0px;
+    transform-origin: 280px 0px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_145*/
+
+.tweet_DIV_146 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    width: 560px;
+    perspective-origin: 280px 0px;
+    transform-origin: 280px 0px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}
+
+#tweet_DIV_148 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 48px;
+    width: 560px;
+    perspective-origin: 280px 24px;
+    transform-origin: 280px 24px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_148*/
+
+#tweet_UL_149 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 46px;
+    width: 560px;
+    perspective-origin: 280px 24px;
+    transform-origin: 280px 24px;
+    border-top: 1px solid rgb(225, 232, 237);
+    border-right: 0px none rgb(41, 47, 51);
+    border-bottom: 1px solid rgb(225, 232, 237);
+    border-left: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 10px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+    padding: 0px;
+}/*#tweet_UL_149*/
+
+#tweet_LI_150 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    float: left;
+    height: 40px;
+    min-width: 72px;
+    text-align: start;
+    width: 72px;
+    perspective-origin: 36px 20px;
+    transform-origin: 36px 20px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_LI_150*/
+
+#tweet_A_151 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    display: block;
+    float: left;
+    height: 36px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 52.40625px;
+    perspective-origin: 26.203125px 20px;
+    transform-origin: 26.203125px 20px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 4px 0px 0px;
+}/*#tweet_A_151*/
+
+#tweet_STRONG_152 {
+    color: rgb(96, 118, 150);
+    cursor: default;
+    display: block;
+    height: 20px;
+    text-transform: uppercase;
+    width: 52.40625px;
+    perspective-origin: 26.203125px 10px;
+    transform-origin: 26.203125px 10px;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 500 normal 18px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_STRONG_152*/
+
+#tweet_LI_153 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    float: left;
+    height: 40px;
+    min-width: 72px;
+    text-align: start;
+    width: 72px;
+    perspective-origin: 36px 20px;
+    transform-origin: 36px 20px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_LI_153*/
+
+#tweet_A_154 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    display: block;
+    float: left;
+    height: 36px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 53.703125px;
+    perspective-origin: 26.84375px 20px;
+    transform-origin: 26.84375px 20px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 4px 0px 0px;
+}/*#tweet_A_154*/
+
+#tweet_STRONG_155 {
+    color: rgb(96, 118, 150);
+    cursor: default;
+    display: block;
+    height: 20px;
+    text-transform: uppercase;
+    width: 53.703125px;
+    perspective-origin: 26.84375px 10px;
+    transform-origin: 26.84375px 10px;
+    border: 0px none rgb(96, 118, 150);
+    font: normal normal 500 normal 18px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(96, 118, 150) none 0px;
+}/*#tweet_STRONG_155*/
+
+#tweet_LI_156 {
+    color: rgb(41, 47, 51);
+    cursor: default;
+    display: block;
+    float: left;
+    height: 46px;
+    text-align: start;
+    width: 274px;
+    perspective-origin: 137px 23px;
+    transform-origin: 137px 23px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#tweet_LI_156*/
+
+#tweet_A_157 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 21px 23px;
+    transform-origin: 21px 23px;
+    border-top: 0px none rgb(136, 153, 166);
+    border-right: 0px none rgb(136, 153, 166);
+    border-bottom: 0px none rgb(136, 153, 166);
+    border-left: 1px solid rgb(225, 232, 237);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px 11px 12px;
+}/*#tweet_A_157*/
+
+#tweet_IMG_158 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_158*/
+
+#tweet_A_159 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_159*/
+
+#tweet_IMG_160 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_160*/
+
+#tweet_A_161 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_161*/
+
+#tweet_IMG_162 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_162*/
+
+#tweet_A_163 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_163*/
+
+#tweet_IMG_164 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_164*/
+
+#tweet_A_165 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_165*/
+
+#tweet_IMG_166 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_166*/
+
+#tweet_A_167 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_167*/
+
+#tweet_IMG_168 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_168*/
+
+#tweet_A_169 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_169*/
+
+#tweet_IMG_170 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_170*/
+
+#tweet_A_171 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_171*/
+
+#tweet_IMG_172 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_172*/
+
+#tweet_A_173 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 29px;
+    perspective-origin: 14.5px 23px;
+    transform-origin: 14.5px 23px;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(136, 153, 166) none 0px;
+    padding: 11px 0px;
+}/*#tweet_A_173*/
+
+#tweet_IMG_174 {
+    color: rgb(136, 153, 166);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 24px;
+    text-transform: uppercase;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(136, 153, 166);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 10px/16px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_IMG_174*/
+
+#tweet_DIV_175 {
+    clear: both;
+    color: rgb(41, 47, 51);
+    cursor: default;
+    height: 24px;
+    width: 560px;
+    perspective-origin: 280px 12px;
+    transform-origin: 280px 12px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 10px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#tweet_DIV_175*/
+
+#tweet_SPAN_176 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/24px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+    overflow: hidden;
+}/*#tweet_SPAN_176*/
+
+#tweet_SPAN_177 {
+    color: rgb(136, 153, 166);
+    cursor: default;
+    border: 0px none rgb(136, 153, 166);
+    font: normal normal normal normal 13px/24px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(136, 153, 166) none 0px;
+}/*#tweet_SPAN_177*/
+
+
+#summary_BODY_1 {
+    color: rgb(41, 47, 51);
+    height: 122.890625px;
+    width: 489px;
+    perspective-origin: 244.5px 61.4375px;
+    transform-origin: 244.5px 61.4375px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    margin: 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#summary_BODY_1*/
+
+#summary_DIV_2 {
+    color: rgb(41, 47, 51);
+    height: 122.890625px;
+    width: 489px;
+    perspective-origin: 244.5px 61.4375px;
+    transform-origin: 244.5px 61.4375px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#summary_DIV_2*/
+
+#summary_DIV_3 {
+    color: rgb(41, 47, 51);
+    height: 18px;
+    width: 489px;
+    perspective-origin: 244.5px 9px;
+    transform-origin: 244.5px 9px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    margin: 0px 0px 14px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_DIV_3*/
+
+#summary_A_4 {
+    color: rgb(41, 47, 51);
+    text-decoration: none;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_A_4*/
+
+#summary_IMG_5 {
+    color: rgb(41, 47, 51);
+    display: inline-block;
+    height: 18px;
+    max-width: 100%;
+    vertical-align: middle;
+    width: 18px;
+    perspective-origin: 9px 9px;
+    transform-origin: 9px 9px;
+    border: 0px none rgb(41, 47, 51);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_IMG_5*/
+
+#summary_B_6 {
+    color: rgb(41, 47, 51);
+    display: inline-block;
+    height: 18px;
+    vertical-align: middle;
+    perspective-origin: 58.6875px 9px;
+    transform-origin: 58.6875px 9px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 12px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_B_6*/
+
+#summary_DIV_7 {
+    color: rgb(41, 47, 51);
+    height: 58.890625px;
+    width: 489px;
+    perspective-origin: 244.5px 29.4375px;
+    transform-origin: 244.5px 29.4375px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_DIV_7*/
+
+#summary_DIV_8 {
+    color: rgb(41, 47, 51);
+    height: 58.890625px;
+    width: 489px;
+    perspective-origin: 244.5px 29.4375px;
+    transform-origin: 244.5px 29.4375px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_DIV_8*/
+
+#summary_A_9 {
+    color: rgb(0, 132, 180);
+    text-decoration: none;
+    border: 0px none rgb(0, 132, 180);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(0, 132, 180) none 0px;
+}/*#summary_A_9*/
+
+#summary_IMG_10 {
+    color: rgb(0, 132, 180);
+    display: block;
+    float: right;
+    height: 45px;
+    max-width: 100%;
+    width: 60px;
+    perspective-origin: 30px 22.5px;
+    transform-origin: 30px 22.5px;
+    border: 0px none rgb(0, 132, 180);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    margin: 0px 0px 0px 15px;
+    outline: rgb(0, 132, 180) none 0px;
+}/*#summary_IMG_10*/
+
+#summary_DIV_11 {
+    color: rgb(41, 47, 51);
+    height: 58.890625px;
+    width: 414px;
+    perspective-origin: 207px 29.4375px;
+    transform-origin: 207px 29.4375px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+    overflow: hidden;
+}/*#summary_DIV_11*/
+
+#summary_H1_12 {
+    color: rgb(41, 47, 51);
+    height: 18px;
+    width: 414px;
+    perspective-origin: 207px 9px;
+    transform-origin: 207px 9px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/18.00119972229px sans-serif;
+    margin: 0px 0px 2.09999990463257px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_H1_12*/
+
+#summary_A_13 {
+    color: rgb(41, 47, 51);
+    text-decoration: none;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal bold normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_A_13*/
+
+#summary_P_14 {
+    color: rgb(41, 47, 51);
+    height: 36px;
+    overflow-wrap: break-word;
+    width: 414px;
+    word-break: break-word;
+    word-wrap: break-word;
+    perspective-origin: 207px 18px;
+    transform-origin: 207px 18px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    margin: 4.90000009536743px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_P_14*/
+
+#summary_A_15 {
+    color: rgb(41, 47, 51);
+    overflow-wrap: break-word;
+    text-decoration: none;
+    word-break: break-word;
+    word-wrap: break-word;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_A_15*/
+
+#summary_DIV_16 {
+    clear: both;
+    color: rgb(41, 47, 51);
+    height: 18px;
+    width: 489px;
+    perspective-origin: 244.5px 9px;
+    transform-origin: 244.5px 9px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    margin: 14px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_DIV_16*/
+
+.summary_A_17 {
+    color: rgb(0, 132, 180);
+    text-decoration: none;
+    border: 0px none rgb(0, 132, 180);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(0, 132, 180) none 0px;
+}/*#summary_A_17*/
+
+#summary_SCRIPT_18 {
+    color: rgb(41, 47, 51);
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18.00119972229px sans-serif;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#summary_SCRIPT_18*/
+
+
+.twitter-link {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  vertical-align: middle;
+  color: rgb(41, 47, 51);
+  border: 0px none rgb(41, 47, 51);
+  font: normal normal bold normal 14px/18.00119972229px sans-serif;
+  outline: rgb(41, 47, 51) none 0px;
+}
+
+#fb_DIV_1 {
+    color: rgb(20, 24, 35);
+    height: 460px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 230px;
+    transform-origin: 243px 230px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_1*/
+
+#fb_DIV_2 {
+    color: rgb(20, 24, 35);
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    width: 510px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 255px 0px;
+    transform-origin: 255px 0px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: -12px 0px 0px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_2*/
+
+#fb_DIV_3 {
+    color: rgb(20, 24, 35);
+    height: 30px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    top: 0px;
+    width: 27px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 13.5px 15px;
+    transform-origin: 13.5px 15px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_3*/
+
+#fb_A_4 {
+    background-position: -91px -147px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 20px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    width: 20px;
+    word-wrap: break-word;
+    perspective-origin: 10px 10px;
+    transform-origin: 10px 10px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yy/r/mJqDimAopMK.png) no-repeat scroll -91px -147px / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 10px 7px 0px 0px;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_4*/
+
+#fb_DIV_5 {
+    color: rgb(20, 24, 35);
+    height: 40px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 20px;
+    transform-origin: 243px 20px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 11px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_5*/
+
+#fb_DIV_5:after {
+    clear: both;
+    color: rgb(20, 24, 35);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 0px;
+    transform-origin: 243px 0px;
+    content: '.';
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 0px/0px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_5:after*/
+
+#fb_A_6 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 40px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    width: 40px;
+    word-wrap: break-word;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 8px 0px 0px;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_6*/
+
+#fb_A_6:after {
+    bottom: 0px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 38px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    top: 0px;
+    width: 38px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    content: '';
+    border: 1px solid rgba(0, 0, 0, 0.0980392);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_6:after*/
+
+#fb_IMG_7 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 40px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 40px;
+    word-wrap: break-word;
+    perspective-origin: 20px 20px;
+    transform-origin: 20px 20px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_IMG_7*/
+
+#fb_DIV_8 {
+    color: rgb(20, 24, 35);
+    display: table-cell;
+    height: 40px;
+    overflow-wrap: break-word;
+    text-align: left;
+    vertical-align: top;
+    width: 438px;
+    word-wrap: break-word;
+    perspective-origin: 219px 20px;
+    transform-origin: 219px 20px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_8*/
+
+#fb_DIV_9 {
+    color: rgb(20, 24, 35);
+    height: 40px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 438px;
+    word-wrap: break-word;
+    perspective-origin: 219px 20px;
+    transform-origin: 219px 20px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_9*/
+
+#fb_DIV_10 {
+    color: rgb(20, 24, 35);
+    display: inline-block;
+    height: 40px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 246.171875px;
+    word-wrap: break-word;
+    perspective-origin: 123.078125px 20px;
+    transform-origin: 123.078125px 20px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_10*/
+
+#fb_DIV_11 {
+    color: rgb(20, 24, 35);
+    display: inline-block;
+    height: 40px;
+    overflow-wrap: break-word;
+    text-align: left;
+    vertical-align: middle;
+    word-wrap: break-word;
+    perspective-origin: 0px 20px;
+    transform-origin: 0px 20px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_11*/
+
+#fb_DIV_12 {
+    color: rgb(20, 24, 35);
+    display: inline-block;
+    height: 36px;
+    overflow-wrap: break-word;
+    text-align: left;
+    vertical-align: middle;
+    width: 246.171875px;
+    word-wrap: break-word;
+    perspective-origin: 123.078125px 18px;
+    transform-origin: 123.078125px 18px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_12*/
+
+#fb_H5_13 {
+    color: rgb(20, 24, 35);
+    height: 19px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 224.171875px;
+    word-wrap: break-word;
+    perspective-origin: 123.078125px 9.5px;
+    transform-origin: 123.078125px 9.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 2px;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+    padding: 0px 22px 0px 0px;
+}/*#fb_H5_13*/
+
+#fb_DIV_14 {
+    color: rgb(145, 151, 163);
+    height: 19px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 224.171875px;
+    word-wrap: break-word;
+    perspective-origin: 112.078125px 9.5px;
+    transform-origin: 112.078125px 9.5px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_DIV_14*/
+
+#fb_SPAN_15 {
+    color: rgb(145, 151, 163);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_SPAN_15*/
+
+#fb_A_16 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_16*/
+
+#fb_A_17 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_17*/
+
+#fb_DIV_18 {
+    color: rgb(145, 151, 163);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 246.171875px;
+    word-wrap: break-word;
+    perspective-origin: 123.078125px 7.5px;
+    transform-origin: 123.078125px 7.5px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_DIV_18*/
+
+#fb_SPAN_19 {
+    color: rgb(145, 151, 163);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_SPAN_19*/
+
+#fb_SPAN_20 {
+    color: rgb(145, 151, 163);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_SPAN_20*/
+
+#fb_A_21 {
+    color: rgb(145, 151, 163);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_A_21*/
+
+#fb_ABBR_22 {
+    color: rgb(145, 151, 163);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_ABBR_22*/
+
+#fb_A_23 {
+    color: rgb(145, 151, 163);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_A_23*/
+
+#fb_DIV_24 {
+    color: rgb(145, 151, 163);
+    display: inline-block;
+    height: 24px;
+    left: -3px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 32px;
+    word-wrap: break-word;
+    perspective-origin: 16px 12px;
+    transform-origin: 16px 12px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: -5px 0px -4px;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_DIV_24*/
+
+#fb_DIV_25 {
+    color: rgb(145, 151, 163);
+    display: inline-block;
+    height: 24px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 32px;
+    word-wrap: break-word;
+    perspective-origin: 16px 12px;
+    transform-origin: 16px 12px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_DIV_25*/
+
+#fb_A_26 {
+    background-position: 0px -21px;
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    display: block;
+    height: 22px;
+    max-width: 25px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: rgb(255, 255, 255) 0px 1px 0px;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 24px;
+    perspective-origin: 16px 12px;
+    transform-origin: 16px 12px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px -21px / auto padding-box border-box;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal bold normal 12px/22px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+    padding: 0px 3px;
+}/*#fb_A_26*/
+
+#fb_A_26:before {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    display: inline-block;
+    height: 20px;
+    text-align: center;
+    text-shadow: rgb(255, 255, 255) 0px 1px 0px;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 0px;
+    perspective-origin: 0px 10px;
+    transform-origin: 0px 10px;
+    content: '';
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal bold normal 12px/22px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_A_26:before*/
+
+#fb_SPAN_27 {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    display: inline-block;
+    height: 22px;
+    max-width: 11px;
+    text-align: center;
+    text-shadow: rgb(255, 255, 255) 0px 1px 0px;
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+    white-space: nowrap;
+    width: 11px;
+    perspective-origin: 5.5px 11px;
+    transform-origin: 5.5px 11px;
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal bold normal 12px/22px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+    overflow: hidden;
+}/*#fb_SPAN_27*/
+
+#fb_I_28 {
+    background-position: -322px -143px;
+    bottom: 1px;
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    display: inline-block;
+    height: 12px;
+    position: relative;
+    text-align: center;
+    text-shadow: rgb(255, 255, 255) 0px 1px 0px;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 12px;
+    perspective-origin: 6px 6px;
+    transform-origin: 6px 6px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yV/r/KM2wagmDD8i.png) no-repeat scroll -322px -143px / auto padding-box border-box;
+    border: 0px none rgb(109, 132, 180);
+    font: italic normal bold normal 12px/22px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_I_28*/
+
+#fb_I_29 {
+    background-position: -370px -143px;
+    bottom: 1px;
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    display: inline-block;
+    height: 8px;
+    position: relative;
+    text-align: center;
+    text-shadow: rgb(255, 255, 255) 0px 1px 0px;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 9px;
+    perspective-origin: 4.5px 4px;
+    transform-origin: 4.5px 4px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yV/r/KM2wagmDD8i.png) no-repeat scroll -370px -143px / auto padding-box border-box;
+    border: 0px none rgb(109, 132, 180);
+    font: italic normal bold normal 12px/22px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px 4px;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_I_29*/
+
+#fb_INPUT_30 {
+    box-sizing: content-box;
+    display: none;
+    height: auto;
+    overflow-wrap: break-word;
+    width: auto;
+    word-wrap: break-word;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    padding: 0px;
+}/*#fb_INPUT_30*/
+
+#fb_DIV_31 {
+    color: rgb(20, 24, 35);
+    height: 19px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 9.5px;
+    transform-origin: 243px 9.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+}/*#fb_DIV_31*/
+
+#fb_P_32 {
+    color: rgb(20, 24, 35);
+    display: inline;
+    height: auto;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: auto;
+    word-wrap: break-word;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 14px/19.3199996948242px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_P_32*/
+
+#fb_DIV_33 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 136.5px;
+    transform-origin: 243px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_33*/
+
+#fb_DIV_34 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 136.5px;
+    transform-origin: 243px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_34*/
+
+#fb_DIV_35 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 136.5px;
+    transform-origin: 243px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 10px 0px 0px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_35*/
+
+#fb_DIV_36 {
+    color: rgb(20, 24, 35);
+    height: 273px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 136.5px;
+    transform-origin: 243px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_36*/
+
+#fb_DIV_37 {
+    color: rgb(20, 24, 35);
+    display: table;
+    height: 273px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    z-index: 1;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_37*/
+
+#fb_DIV_38 {
+    color: rgb(20, 24, 35);
+    display: table;
+    height: 273px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_38*/
+
+#fb_DIV_39 {
+    color: rgb(20, 24, 35);
+    height: 273px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_39*/
+
+#fb_DIV_40 {
+    color: rgb(20, 24, 35);
+    height: 273px;
+    max-height: 100%;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    z-index: 0;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+}/*#fb_DIV_40*/
+
+#fb_DIV_41 {
+    color: rgb(20, 24, 35);
+    height: 273px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 487px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_41*/
+
+#fb_EMBED_42 {
+    color: rgb(20, 24, 35);
+    display: block;
+    height: 273px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_EMBED_42*/
+
+#fb_DIV_43 {
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    height: 273px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 487px;
+    word-wrap: break-word;
+    z-index: 1;
+    align-self: stretch;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_43*/
+
+#fb_DIV_44 {
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    height: 273px;
+    max-height: 100%;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+}/*#fb_DIV_44*/
+
+#fb_DIV_44:after {
+    bottom: 0px;
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    display: block;
+    height: 271px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    top: 0px;
+    width: 485px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 243.5px 136.5px;
+    transform-origin: 243.5px 136.5px;
+    content: '';
+    border: 1px solid rgba(0, 0, 0, 0.0980392);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_44:after*/
+
+#fb_IMG_45 {
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    display: block;
+    height: 280px;
+    left: -5px;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 497px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 248.5px 140px;
+    transform-origin: 248.5px 140px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_IMG_45*/
+
+#fb_DIV_46 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 487px;
+    word-wrap: break-word;
+    perspective-origin: 243.5px 0px;
+    transform-origin: 243.5px 0px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_46*/
+
+#fb_I_47 {
+    background-position: 0px 0px;
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    display: block;
+    height: 72px;
+    left: 243.5px;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 602.5px;
+    width: 72px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 36px 36px;
+    transform-origin: 36px 36px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/NbILFw_egaZ.png) no-repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(20, 24, 35);
+    font: italic normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: -36px 0px 0px -36px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_I_47*/
+
+#fb_INPUT_48 {
+    cursor: default;
+    height: 18px;
+    opacity: 0;
+    overflow-wrap: break-word;
+    text-align: center;
+    white-space: pre;
+    width: 16px;
+    word-wrap: break-word;
+    z-index: 0;
+    align-items: flex-start;
+    perspective-origin: 8px 9px;
+    transform-origin: 8px 9px;
+    background: rgb(192, 192, 192) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    list-style: none outside none;
+    padding: 0px 8px;
+}/*#fb_INPUT_48*/
+
+#fb_SPAN_49 {
+    color: rgb(20, 24, 35);
+    display: none;
+    height: 24px;
+    left: 50%;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    vertical-align: middle;
+    width: 24px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png) repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: -12px 0px 0px -12px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_SPAN_49*/
+
+#fb_DIV_50 {
+    color: rgb(20, 24, 35);
+    height: 97px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 48.5px;
+    transform-origin: 243px 48.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_50*/
+
+#fb_FORM_51 {
+    color: rgb(20, 24, 35);
+    height: 97px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 48.5px;
+    transform-origin: 243px 48.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_FORM_51*/
+
+#fb_INPUT_52 {
+    box-sizing: content-box;
+    display: none;
+    height: auto;
+    overflow-wrap: break-word;
+    width: auto;
+    word-wrap: break-word;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    padding: 0px;
+}/*#fb_INPUT_52*/
+
+#fb_INPUT_53 {
+    box-sizing: content-box;
+    display: none;
+    height: auto;
+    overflow-wrap: break-word;
+    width: auto;
+    word-wrap: break-word;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    padding: 0px;
+}/*#fb_INPUT_53*/
+
+#fb_INPUT_54 {
+    box-sizing: content-box;
+    display: none;
+    height: auto;
+    overflow-wrap: break-word;
+    width: auto;
+    word-wrap: break-word;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    padding: 0px;
+}/*#fb_INPUT_54*/
+
+#fb_INPUT_55 {
+    box-sizing: content-box;
+    display: none;
+    height: auto;
+    overflow-wrap: break-word;
+    width: auto;
+    word-wrap: break-word;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    padding: 0px;
+}/*#fb_INPUT_55*/
+
+#fb_DIV_56 {
+    color: rgb(145, 151, 163);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 7.5px;
+    transform-origin: 243px 7.5px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 10px 0px 0px;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_DIV_56*/
+
+#fb_DIV_57 {
+    color: rgb(145, 151, 163);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 7.5px;
+    transform-origin: 243px 7.5px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_DIV_57*/
+
+#fb_SPAN_58 {
+    color: rgb(145, 151, 163);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_SPAN_58*/
+
+#fb_A_59 {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_A_59*/
+
+#fb_SPAN_60 {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_SPAN_60*/
+
+#fb_LABEL_61 {
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal bold normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#fb_LABEL_61*/
+
+#fb_INPUT_62 {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    height: 12px;
+    overflow-wrap: break-word;
+    text-align: center;
+    white-space: pre;
+    width: 52.015625px;
+    word-wrap: break-word;
+    align-items: flex-start;
+    perspective-origin: 26px 6px;
+    transform-origin: 26px 6px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+    padding: 0px;
+}/*#fb_INPUT_62*/
+
+#fb_SPAN_63 {
+    color: rgb(145, 151, 163);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+}/*#fb_SPAN_63*/
+
+#fb_A_64 {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_A_64*/
+
+#fb_SPAN_65 {
+    color: rgb(109, 132, 180);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(109, 132, 180);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(109, 132, 180) none 0px;
+}/*#fb_SPAN_65*/
+
+#fb_DIV_66 {
+    color: rgb(20, 24, 35);
+    height: 74px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 510px;
+    word-wrap: break-word;
+    perspective-origin: 255px 37px;
+    transform-origin: 255px 37px;
+    background: rgb(246, 247, 248) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(20, 24, 35);
+    border-radius: 0 0 3px 3px;
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 8px -12px -12px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_66*/
+
+#fb_UL_67 {
+    color: rgb(20, 24, 35);
+    height: 74px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 510px;
+    word-wrap: break-word;
+    perspective-origin: 255px 37px;
+    transform-origin: 255px 37px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(20, 24, 35) none 0px;
+    padding: 0px;
+}/*#fb_UL_67*/
+
+#fb_LI_68 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    position: relative;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 255px 16px;
+    transform-origin: 255px 16px;
+    background: rgb(246, 247, 248) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 1px solid rgb(225, 226, 227);
+    border-right: 0px none rgb(20, 24, 35);
+    border-bottom: 0px none rgb(20, 24, 35);
+    border-left: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    padding: 9px 12px 7px;
+}/*#fb_LI_68*/
+
+#fb_DIV_69 {
+    color: rgb(20, 24, 35);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 7.5px;
+    transform-origin: 243px 7.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_69*/
+
+#fb_DIV_69:after {
+    clear: both;
+    color: rgb(20, 24, 35);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 0px;
+    transform-origin: 243px 0px;
+    content: '.';
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 0px/0px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_69:after*/
+
+#fb_DIV_70 {
+    color: rgb(20, 24, 35);
+    float: left;
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 13px;
+    word-wrap: break-word;
+    perspective-origin: 6.5px 7.5px;
+    transform-origin: 6.5px 7.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_70*/
+
+#fb_A_71 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    width: 13px;
+    word-wrap: break-word;
+    perspective-origin: 6.5px 7.5px;
+    transform-origin: 6.5px 7.5px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_71*/
+
+#fb_I_72 {
+    background-position: -15px -427px;
+    bottom: 2px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 15px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 13px;
+    word-wrap: break-word;
+    perspective-origin: 6.5px 7.5px;
+    transform-origin: 6.5px 7.5px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yt/r/-C19xAsFoyr.png) no-repeat scroll -15px -427px / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: italic normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_I_72*/
+
+#fb_DIV_73 {
+    color: rgb(20, 24, 35);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 7.5px;
+    transform-origin: 243px 7.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_73*/
+
+#fb_DIV_74 {
+    color: rgb(20, 24, 35);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 468px;
+    word-wrap: break-word;
+    perspective-origin: 236.5px 7.5px;
+    transform-origin: 236.5px 7.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+    padding: 0px 0px 0px 5px;
+}/*#fb_DIV_74*/
+
+#fb_DIV_75 {
+    color: rgb(20, 24, 35);
+    height: 15px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 468px;
+    word-wrap: break-word;
+    perspective-origin: 234px 7.5px;
+    transform-origin: 234px 7.5px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_75*/
+
+#fb_SPAN_76 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_SPAN_76*/
+
+#fb_A_77 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    unicode-bidi: embed;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_77*/
+
+#fb_SPAN_78 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_SPAN_78*/
+
+#fb_A_79 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    unicode-bidi: embed;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_79*/
+
+#fb_SPAN_80 {
+    color: rgb(20, 24, 35);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_SPAN_80*/
+
+#fb_LI_81 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    position: relative;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 21px;
+    transform-origin: 243px 21px;
+    background: rgb(246, 247, 248) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(20, 24, 35);
+    border-radius: 0 0 2px 2px;
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 12px;
+    outline: rgb(20, 24, 35) none 0px;
+    padding: 2px 0px 8px;
+}/*#fb_LI_81*/
+
+#fb_DIV_82 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 16px;
+    transform-origin: 243px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_82*/
+
+#fb_DIV_82:after {
+    clear: both;
+    color: rgb(20, 24, 35);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 0px;
+    transform-origin: 243px 0px;
+    content: '.';
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 0px/0px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_82:after*/
+
+#fb_DIV_83 {
+    color: rgb(20, 24, 35);
+    float: left;
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 32px;
+    word-wrap: break-word;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_83*/
+
+#fb_DIV_84 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 32px;
+    word-wrap: break-word;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_84*/
+
+#fb_DIV_84:after {
+    bottom: 0px;
+    color: rgb(20, 24, 35);
+    display: block;
+    height: 30px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    top: 0px;
+    width: 30px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    content: '';
+    border: 1px solid rgba(0, 0, 0, 0.0980392);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_84:after*/
+
+#fb_IMG_85 {
+    color: rgb(20, 24, 35);
+    display: block;
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 32px;
+    word-wrap: break-word;
+    perspective-origin: 16px 16px;
+    transform-origin: 16px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_IMG_85*/
+
+#fb_DIV_86 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 486px;
+    word-wrap: break-word;
+    perspective-origin: 243px 16px;
+    transform-origin: 243px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_86*/
+
+#fb_DIV_87 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 227px 16px;
+    transform-origin: 227px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+    padding: 0px 0px 0px 8px;
+}/*#fb_DIV_87*/
+
+#fb_DIV_88 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 16px;
+    transform-origin: 223px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_88*/
+
+#fb_DIV_89 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 16px;
+    transform-origin: 223px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_89*/
+
+#fb_DIV_90 {
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 16px;
+    transform-origin: 223px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_90*/
+
+#fb_INPUT_91 {
+    box-sizing: content-box;
+    display: block;
+    height: 12px;
+    left: -99999px;
+    opacity: 0;
+    overflow-wrap: break-word;
+    position: absolute;
+    width: 133.484375px;
+    word-wrap: break-word;
+    z-index: 0;
+    align-self: stretch;
+    perspective-origin: 69.734375px 9px;
+    transform-origin: 69.734375px 9px;
+    font: normal normal normal normal 12px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+}/*#fb_INPUT_91*/
+
+#fb_DIV_92 {
+    box-sizing: border-box;
+    color: rgb(145, 151, 163);
+    cursor: text;
+    height: 32px;
+    min-height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 16px;
+    transform-origin: 223px 16px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(220, 222, 227);
+    font: normal normal normal normal 12px/16px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    list-style: none outside none;
+    outline: rgb(145, 151, 163) none 0px;
+    padding: 7px 5px;
+}/*#fb_DIV_92*/
+
+#fb_DIV_93 {
+    bottom: 0px;
+    color: rgb(20, 24, 35);
+    height: 32px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    width: 61px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 30.5px 16px;
+    transform-origin: 30.5px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_93*/
+
+#fb_DIV_93:after {
+    clear: both;
+    color: rgb(20, 24, 35);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 61px;
+    word-wrap: break-word;
+    perspective-origin: 30.5px 0px;
+    transform-origin: 30.5px 0px;
+    content: '.';
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 0px/0px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_DIV_93:after*/
+
+#fb_DIV_94 {
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    float: left;
+    height: 32px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 27px;
+    word-wrap: break-word;
+    perspective-origin: 13.5px 16px;
+    transform-origin: 13.5px 16px;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    overflow: hidden;
+}/*#fb_DIV_94*/
+
+#fb_I_95 {
+    background-position: 0px 0px;
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    display: block;
+    height: 12px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 15px;
+    word-wrap: break-word;
+    perspective-origin: 7.5px 6px;
+    transform-origin: 7.5px 6px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/FmFTRQkgqr0.png) no-repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(20, 24, 35);
+    font: italic normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 10px 6px;
+    outline: rgb(20, 24, 35) none 0px;
+}/*#fb_I_95*/
+
+#fb_INPUT_96 {
+    bottom: 0px;
+    box-sizing: content-box;
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    display: block;
+    height: 300px;
+    opacity: 0;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    width: 18910px;
+    word-wrap: break-word;
+    z-index: 0;
+    align-items: baseline;
+    align-self: stretch;
+    perspective-origin: 9455px 150px;
+    transform-origin: 9455px 150px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal normal normal 1000px/normal Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(20, 24, 35) none 0px;
+    padding: 0px;
+}/*#fb_INPUT_96*/
+
+#fb_A_97 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 32px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    width: 34px;
+    word-wrap: break-word;
+    perspective-origin: 17px 16px;
+    transform-origin: 17px 16px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_A_97*/
+
+#fb_DIV_98 {
+    background-position: -6px -100px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 14px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 14px;
+    word-wrap: break-word;
+    perspective-origin: 7px 7px;
+    transform-origin: 7px 7px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yB/r/ESmslPMZsJV.png) no-repeat scroll -6px -100px / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 12px/15.3599996566772px Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    list-style: none outside none;
+    margin: 9px 10px;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_DIV_98*/
+
+.tweet-div {
+  height: 900px;
+}
+
+#fb_article_DIV_1 {
+    color: rgb(78, 86, 101);
+    height: 158px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 79px;
+    transform-origin: 235px 79px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_DIV_1*/
+
+#fb_article_A_2 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_A_2*/
+
+#fb_article_DIV_3 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 158px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 470px;
+    word-wrap: break-word;
+    z-index: 10;
+    align-self: stretch;
+    perspective-origin: 235px 79px;
+    transform-origin: 235px 79px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y4/r/-PAXP-deijE.gif) repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_DIV_3*/
+
+#fb_article_DIV_4 {
+    box-shadow: rgba(0, 0, 0, 0.14902) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.0980392) 0px 1px 4px 0px;
+    color: rgb(78, 86, 101);
+    height: 158px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    z-index: 0;
+    perspective-origin: 235px 79px;
+    transform-origin: 235px 79px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_DIV_4*/
+
+#fb_article_DIV_4:after {
+    clear: both;
+    color: rgb(78, 86, 101);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 0px;
+    transform-origin: 235px 0px;
+    content: '.';
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 0px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_4:after*/
+
+#fb_article_DIV_5 {
+    color: rgb(78, 86, 101);
+    height: 158px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 79px;
+    transform-origin: 235px 79px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_5*/
+
+#fb_article_DIV_5:after {
+    clear: both;
+    color: rgb(78, 86, 101);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 0px;
+    transform-origin: 235px 0px;
+    content: '.';
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 0px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_5:after*/
+
+#fb_article_DIV_6 {
+    color: rgb(78, 86, 101);
+    float: left;
+    height: 158px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 158px;
+    word-wrap: break-word;
+    perspective-origin: 79px 79px;
+    transform-origin: 79px 79px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_6*/
+
+#fb_article_SPAN_7 {
+    color: rgb(78, 86, 101);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_SPAN_7*/
+
+#fb_article_DIV_8 {
+    color: rgb(78, 86, 101);
+    height: 158px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 158px;
+    word-wrap: break-word;
+    z-index: 1;
+    perspective-origin: 79px 79px;
+    transform-origin: 79px 79px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_8*/
+
+#fb_article_A_9 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_A_9*/
+
+#fb_article_DIV_10 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 158px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 158px;
+    word-wrap: break-word;
+    perspective-origin: 79px 79px;
+    transform-origin: 79px 79px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_DIV_10*/
+
+#fb_article_DIV_10:after {
+    bottom: 0px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 156px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    top: 0px;
+    width: 156px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 79px 79px;
+    transform-origin: 79px 79px;
+    content: '';
+    border-top: 1px solid rgba(0, 0, 0, 0.0980392);
+    border-right: 1px solid rgba(0, 0, 0, 0.14902);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.231373);
+    border-left: 1px solid rgba(0, 0, 0, 0.14902);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_DIV_10:after*/
+
+#fb_article_DIV_11 {
+    background-position: 50% 50%;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 158px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 158px;
+    word-wrap: break-word;
+    perspective-origin: 79px 79px;
+    transform-origin: 79px 79px;
+    background: rgba(0, 0, 0, 0) none no-repeat scroll 50% 50% / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+    overflow: hidden;
+}/*#fb_article_DIV_11*/
+
+#fb_article_IMG_12 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 158px;
+    min-height: 100%;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 158px;
+    word-wrap: break-word;
+    perspective-origin: 79px 79px;
+    transform-origin: 79px 79px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_IMG_12*/
+
+#fb_article_DIV_13 {
+    color: rgb(78, 86, 101);
+    height: 152px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 312px;
+    word-wrap: break-word;
+    perspective-origin: 156px 76px;
+    transform-origin: 156px 76px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_DIV_13*/
+
+#fb_article_SPAN_14 {
+    color: rgb(78, 86, 101);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_SPAN_14*/
+
+#fb_article_DIV_15 {
+    color: rgb(78, 86, 101);
+    height: 132px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 312px;
+    word-wrap: break-word;
+    perspective-origin: 156px 66px;
+    transform-origin: 156px 66px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_15*/
+
+#fb_article_DIV_16 {
+    color: rgb(78, 86, 101);
+    height: 132px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 288px;
+    word-wrap: break-word;
+    perspective-origin: 144px 66px;
+    transform-origin: 144px 66px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    margin: 10px 12px;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_16*/
+
+#fb_article_DIV_17 {
+    color: rgb(78, 86, 101);
+    height: 22px;
+    max-height: 110px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 288px;
+    word-wrap: break-word;
+    perspective-origin: 144px 11px;
+    transform-origin: 144px 11px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal 500 normal 18px/22px Georgia, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    margin: 0px 0px 5px;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+    transition: color 0.1s ease-in-out 0s;
+}/*#fb_article_DIV_17*/
+
+#fb_article_A_18 {
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal 500 normal 18px/22px Georgia, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    outline: rgb(20, 24, 35) none 0px;
+    transition: color 0.1s ease-in-out 0s;
+}/*#fb_article_A_18*/
+
+#fb_article_DIV_19 {
+    color: rgb(78, 86, 101);
+    height: 80px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 288px;
+    word-wrap: break-word;
+    perspective-origin: 144px 40px;
+    transform-origin: 144px 40px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_19*/
+
+#fb_article_DIV_20 {
+    color: rgb(78, 86, 101);
+    height: 80px;
+    max-height: 80px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 288px;
+    word-wrap: break-word;
+    perspective-origin: 144px 40px;
+    transform-origin: 144px 40px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/16px Helvetica;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_DIV_20*/
+
+#fb_article_DIV_21 {
+    bottom: 0px;
+    color: rgb(78, 86, 101);
+    height: 11px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    width: 288px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 144px 5.5px;
+    transform-origin: 144px 5.5px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_DIV_21*/
+
+#fb_article_DIV_22 {
+    color: rgb(145, 151, 163);
+    height: 11px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 288px;
+    word-wrap: break-word;
+    perspective-origin: 144px 5.5px;
+    transform-origin: 144px 5.5px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 11px/11px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(145, 151, 163) none 0px;
+    overflow: hidden;
+}/*#fb_article_DIV_22*/
+
+#fb_article_A_23 {
+    bottom: 0px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 156px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    text-decoration: none;
+    top: 0px;
+    width: 468px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 235px 79px;
+    transform-origin: 235px 79px;
+    border-top: 1px solid rgb(233, 234, 237);
+    border-right: 1px solid rgb(233, 234, 237);
+    border-bottom: 1px solid rgb(209, 209, 209);
+    border-left: 1px solid rgb(233, 234, 237);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_A_23*/
+
+#fb_article_large_photo_DIV_1 {
+    color: rgb(78, 86, 101);
+    height: 345px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 172.5px;
+    transform-origin: 235px 172.5px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_large_photo_DIV_1*/
+
+#fb_article_large_photo_A_2 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_A_2*/
+
+#fb_article_large_photo_DIV_3 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 345px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: 470px;
+    word-wrap: break-word;
+    z-index: 10;
+    align-self: stretch;
+    perspective-origin: 235px 172.5px;
+    transform-origin: 235px 172.5px;
+    background: rgba(0, 0, 0, 0) url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y4/r/-PAXP-deijE.gif) repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_DIV_3*/
+
+#fb_article_large_photo_DIV_4 {
+    box-shadow: rgba(0, 0, 0, 0.14902) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.0980392) 0px 1px 4px 0px;
+    color: rgb(78, 86, 101);
+    height: 345px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    z-index: 0;
+    perspective-origin: 235px 172.5px;
+    transform-origin: 235px 172.5px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_large_photo_DIV_4*/
+
+#fb_article_large_photo_DIV_4:after {
+    clear: both;
+    color: rgb(78, 86, 101);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 0px;
+    transform-origin: 235px 0px;
+    content: '.';
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 0px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_4:after*/
+
+#fb_article_large_photo_DIV_5 {
+    color: rgb(78, 86, 101);
+    height: 345px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 172.5px;
+    transform-origin: 235px 172.5px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_5*/
+
+#fb_article_large_photo_DIV_5:after {
+    clear: both;
+    color: rgb(78, 86, 101);
+    display: block;
+    overflow-wrap: break-word;
+    text-align: left;
+    visibility: hidden;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 0px;
+    transform-origin: 235px 0px;
+    content: '.';
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 0px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_5:after*/
+
+#fb_article_large_photo_DIV_6 {
+    color: rgb(78, 86, 101);
+    float: left;
+    height: 345px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 172.5px;
+    transform-origin: 235px 172.5px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_6*/
+
+#fb_article_large_photo_SPAN_7 {
+    color: rgb(78, 86, 101);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_SPAN_7*/
+
+#fb_article_large_photo_DIV_8 {
+    color: rgb(78, 86, 101);
+    height: 246px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    z-index: 1;
+    perspective-origin: 235px 123px;
+    transform-origin: 235px 123px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_8*/
+
+#fb_article_large_photo_A_9 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_A_9*/
+
+#fb_article_large_photo_DIV_10 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 246px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 123px;
+    transform-origin: 235px 123px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_DIV_10*/
+
+#fb_article_large_photo_DIV_10:after {
+    bottom: 0px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 244px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    top: 0px;
+    width: 468px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 235px 123px;
+    transform-origin: 235px 123px;
+    content: '';
+    border-top: 1px solid rgba(0, 0, 0, 0.0980392);
+    border-right: 1px solid rgba(0, 0, 0, 0.14902);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.231373);
+    border-left: 1px solid rgba(0, 0, 0, 0.14902);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_DIV_10:after*/
+
+#fb_article_large_photo_DIV_11 {
+    background-position: 50% 50%;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 246px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 123px;
+    transform-origin: 235px 123px;
+    background: rgba(0, 0, 0, 0) none no-repeat scroll 50% 50% / auto padding-box border-box;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+    overflow: hidden;
+}/*#fb_article_large_photo_DIV_11*/
+
+#fb_article_large_photo_IMG_12 {
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    height: 246px;
+    min-height: 100%;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 123px;
+    transform-origin: 235px 123px;
+    border: 0px none rgb(59, 89, 152);
+    font: normal normal normal normal 14px/0px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_IMG_12*/
+
+#fb_article_large_photo_DIV_13 {
+    color: rgb(78, 86, 101);
+    height: 79px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 470px;
+    word-wrap: break-word;
+    perspective-origin: 235px 39.5px;
+    transform-origin: 235px 39.5px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_13*/
+
+#fb_article_large_photo_DIV_14 {
+    color: rgb(78, 86, 101);
+    height: 79px;
+    max-height: 100px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 39.5px;
+    transform-origin: 223px 39.5px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    margin: 10px 12px;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_14*/
+
+#fb_article_large_photo_DIV_15 {
+    color: rgb(78, 86, 101);
+    height: 22px;
+    max-height: 110px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 11px;
+    transform-origin: 223px 11px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal 500 normal 18px/22px Georgia, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    margin: 0px 0px 5px;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+    transition: color 0.1s ease-in-out 0s;
+}/*#fb_article_large_photo_DIV_15*/
+
+#fb_article_large_photo_A_16 {
+    color: rgb(20, 24, 35);
+    cursor: pointer;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-decoration: none;
+    word-wrap: break-word;
+    border: 0px none rgb(20, 24, 35);
+    font: normal normal 500 normal 18px/22px Georgia, 'lucida grande', tahoma, verdana, arial, sans-serif;
+    outline: rgb(20, 24, 35) none 0px;
+    transition: color 0.1s ease-in-out 0s;
+}/*#fb_article_large_photo_A_16*/
+
+#fb_article_large_photo_DIV_17 {
+    color: rgb(78, 86, 101);
+    height: 52px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 26px;
+    transform-origin: 223px 26px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_DIV_17*/
+
+#fb_article_large_photo_DIV_18 {
+    color: rgb(78, 86, 101);
+    height: 32px;
+    max-height: 80px;
+    overflow-wrap: break-word;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 16px;
+    transform-origin: 223px 16px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/16px Helvetica;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_large_photo_DIV_18*/
+
+#fb_article_large_photo_DIV_19 {
+    color: rgb(78, 86, 101);
+    height: 11px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-align: left;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 10px;
+    transform-origin: 223px 10px;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 12px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    padding: 9px 0px 0px;
+}/*#fb_article_large_photo_DIV_19*/
+
+#fb_article_large_photo_DIV_20 {
+    color: rgb(145, 151, 163);
+    height: 11px;
+    overflow-wrap: break-word;
+    text-align: left;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 446px;
+    word-wrap: break-word;
+    perspective-origin: 223px 5.5px;
+    transform-origin: 223px 5.5px;
+    border: 0px none rgb(145, 151, 163);
+    font: normal normal normal normal 11px/11px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(145, 151, 163) none 0px;
+    overflow: hidden;
+}/*#fb_article_large_photo_DIV_20*/
+
+#fb_article_large_photo_A_21 {
+    bottom: 0px;
+    color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: block;
+    height: 343px;
+    left: 0px;
+    overflow-wrap: break-word;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    text-decoration: none;
+    top: 0px;
+    width: 468px;
+    word-wrap: break-word;
+    align-self: stretch;
+    perspective-origin: 235px 172.5px;
+    transform-origin: 235px 172.5px;
+    border-top: 1px solid rgb(233, 234, 237);
+    border-right: 1px solid rgb(233, 234, 237);
+    border-bottom: 1px solid rgb(209, 209, 209);
+    border-left: 1px solid rgb(233, 234, 237);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(59, 89, 152) none 0px;
+}/*#fb_article_large_photo_A_21*/
+
+#fb_article_large_photo_DIV_22 {
+    color: rgb(78, 86, 101);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+    overflow: hidden;
+}/*#fb_article_large_photo_DIV_22*/
+
+#fb_article_large_photo_SPAN_23 {
+    color: rgb(78, 86, 101);
+    overflow-wrap: break-word;
+    text-align: left;
+    word-wrap: break-word;
+    border: 0px none rgb(78, 86, 101);
+    font: normal normal normal normal 14px/18px 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+    outline: rgb(78, 86, 101) none 0px;
+}/*#fb_article_large_photo_SPAN_23*/
+
+#twitter_large_article_DIV_1 {
+    color: rgb(41, 47, 51);
+    height: 376px;
+    width: 468px;
+    perspective-origin: 234px 194.5px;
+    transform-origin: 234px 194.5px;
+    border-top: 1px solid rgb(232, 232, 232);
+    border-right: 0px solid rgb(232, 232, 232);
+    border-bottom: 0px solid rgb(232, 232, 232);
+    border-left: 0px solid rgb(232, 232, 232);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    margin: 12px 0px 0px;
+    outline: rgb(41, 47, 51) none 0px;
+    padding: 12px 0px 0px;
+    transition: margin-top 0.3s ease-out 0s;
+}/*#twitter_large_article_DIV_1*/
+
+#twitter_large_article_DIV_1:after {
+    clear: both;
+    color: rgb(41, 47, 51);
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#twitter_large_article_DIV_1:after*/
+
+#twitter_large_article_DIV_1:before {
+    color: rgb(41, 47, 51);
+    display: table;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#twitter_large_article_DIV_1:before*/
+
+#twitter_large_article_DIV_2 {
+    color: rgb(41, 47, 51);
+    height: 346px;
+    width: 468px;
+    perspective-origin: 234px 173px;
+    transform-origin: 234px 173px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#twitter_large_article_DIV_2*/
+
+#twitter_large_article_H3_3 {
+    color: rgb(41, 47, 51);
+    height: 287px;
+    width: 468px;
+    perspective-origin: 234px 143.5px;
+    transform-origin: 234px 143.5px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 4px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#twitter_large_article_H3_3*/
+
+#twitter_large_article_A_4 {
+    color: rgb(0, 132, 180);
+    text-decoration: none;
+    border: 0px none rgb(0, 132, 180);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(0, 132, 180) none 0px;
+}/*#twitter_large_article_A_4*/
+
+#twitter_large_article_IMG_5 {
+    color: rgb(0, 132, 180);
+    display: block;
+    height: 264px;
+    width: 470px;
+    perspective-origin: 235px 132px;
+    transform-origin: 235px 132px;
+    border: 0px none rgb(0, 132, 180);
+    font: normal normal normal normal 14px/18px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    margin: 4px 0px 5px;
+    outline: rgb(0, 132, 180) none 0px;
+}/*#twitter_large_article_IMG_5*/
+
+#twitter_large_article_P_6 {
+    color: rgb(41, 47, 51);
+    height: 54px;
+    width: 468px;
+    perspective-origin: 234px 27px;
+    transform-origin: 234px 27px;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    margin: 5px 0px 10px;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#twitter_large_article_P_6*/
+
+#twitter_large_article_A_7 {
+    color: rgb(41, 47, 51);
+    text-decoration: none;
+    border: 0px none rgb(41, 47, 51);
+    font: normal normal normal normal 12px/18px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(41, 47, 51) none 0px;
+}/*#twitter_large_article_A_7*/
+
+#twitter_large_article_A_8 {
+    color: rgb(112, 112, 112);
+    position: relative;
+    text-decoration: none;
+    border: 0px none rgb(112, 112, 112);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    margin: 10px 0px;
+    outline: rgb(112, 112, 112) none 0px;
+    padding: 0px 0px 0px 21px;
+}/*#twitter_large_article_A_8*/
+
+#twitter_large_article_IMG_9 {
+    color: rgb(112, 112, 112);
+    display: block;
+    height: 16px;
+    left: 0px;
+    position: absolute;
+    top: -2px;
+    width: 16px;
+    align-self: stretch;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    border: 0px none rgb(112, 112, 112);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(112, 112, 112) none 0px;
+}/*#twitter_large_article_IMG_9*/
+
+#twitter_large_article_SPAN_10 {
+    color: rgb(112, 112, 112);
+    border: 0px none rgb(112, 112, 112);
+    font: normal normal bold normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(112, 112, 112) none 0px;
+}/*#twitter_large_article_SPAN_10*/
+
+#twitter_large_article_SPAN_11 {
+    color: rgb(112, 112, 112);
+    unicode-bidi: embed;
+    border: 0px none rgb(112, 112, 112);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(112, 112, 112) none 0px;
+}/*#twitter_large_article_SPAN_11*/
+
+#twitter_large_article_B_12 {
+    color: rgb(112, 112, 112);
+    border: 0px none rgb(112, 112, 112);
+    font: normal normal normal normal 12px/16px 'Helvetica Neue', Roboto, 'Segoe UI', Calibri, sans-serif;
+    list-style: none outside none;
+    outline: rgb(112, 112, 112) none 0px;
+}/*#twitter_large_article_B_12*/
+
+.main-content {
+  margin-bottom: 100px;
+}
